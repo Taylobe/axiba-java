@@ -4,11 +4,11 @@
 
 ### 关于本文档
 
-- 在线阅读地址：https://snailclimb.gitee.io/javaguide-interview/#/
+- 在线阅读地址：
 
-- Github：https://github.com/Snailclimb/JavaGuide-Interview
+- Github：https://github.com/Taylobe/axiba-java
 
-- 码云：https://gitee.com/SnailClimb/JavaGuide-Interview
+- 码云：
 
   
 
