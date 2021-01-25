@@ -3,5 +3,5 @@
 </p>
 <h1 align="center">axiba-java</h1>
 
-[GitHub](https://github.com/Snailclimb/docsify-demo)
+[GitHub](https://github.com/Taylobe/axiba-java)
 [开始阅读](#axiba-java)
