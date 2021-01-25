@@ -4,11 +4,11 @@
 
 ### 关于本文档
 
-- 在线阅读地址：
+- 在线阅读地址：http://liang-xiaobo.gitee.io/axiba-java/#/
 
 - Github：https://github.com/Taylobe/axiba-java
 
-- 码云：
+- 码云：https://gitee.com/liang-xiaobo/axiba-java
 
   
 
