@@ -4,7 +4,7 @@
 
 ### 关于本文档
 
-- 在线阅读地址：http://liang-xiaobo.gitee.io/axiba-java/#/
+- 在线阅读地址：https://liang-xiaobo.gitee.io/axiba-java/#/
 
 - Github：https://github.com/Taylobe/axiba-java
 
